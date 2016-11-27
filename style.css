@@ -1,0 +1,44 @@
+.jumbotron{
+	/*background-color: green;
+	/*image-size: cover;*/
+	background-image: url( 'https://seehowwesew.files.wordpress.com/2012/09/picture-31.png');
+}
+
+h1{
+	text-align: center;
+	color: yellow; 
+	/* add  !important   before the semi colon above to tell CSS to over-write*/ 
+	/*text-decoration: underline*/;
+}
+
+
+
+h2{
+	text-align: center;
+}
+
+
+
+h3{
+	text-align: center;
+}
+
+
+.titlebox{
+	background-color: white;
+	background-image: none;
+}
+
+.links{
+	text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: yellow !important ;
+}
+
+
+/*p.link {	text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white !important ;
+}*/
